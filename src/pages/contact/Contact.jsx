@@ -36,10 +36,10 @@ const Contact = () => {
                     </div>
 
                     <div className="contact_socials">
-                        <a href="https:linkedin.com" className="contact_social_link">
+                        <a href="https://www.linkedin.com/in/abhilashbn12" className="contact_social_link" target='_blank'>
                             <FaLinkedin />
                         </a>
-                        <a href="https:github.com" className="contact_social_link">
+                        <a href="https://github.com/abhilashbn12" className="contact_social_link" target='_blank'>
                             <FaGithub />
                         </a>
                     </div>
